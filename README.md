@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vCard - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
@@ -42,3 +43,7 @@ If you want to contact me you can reach me at [Twitter](https://www.twitter.com/
 ## License
 
 MIT
+=======
+# Bharath-Yadav-Portfolio
+My Portfolio
+>>>>>>> 405805d467d6cc84fcbac7c89337992ff67438e2
